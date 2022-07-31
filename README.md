@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Agha Saad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></h1>
-<h3 align="center">A passionate DevOps Engineer 💻 from Pakistan</h3>
+<h3 align="center">A passionate DevOps Engineer from Pakistan 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AghaSaad04" alt="AghaSaad04" /> </p>
 
